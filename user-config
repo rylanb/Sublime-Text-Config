@@ -1,0 +1,60 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".@"
+		}
+	],
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"templates.js",
+		"debug.js",
+		"db/temporary-dump.sql",
+		"*.db",
+		"*.sql",
+		"build/",
+		".tmp/",
+		"node_modules/"
+	],
+	"find_selected_text": false,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".bundle",
+		".sass-cache",
+		"tmp",
+		"public/dist",
+		"npm-debug.log",
+		"log",
+		"stylesheets/compiled",
+		"lib/import_files",
+		"build"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 21.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
+
